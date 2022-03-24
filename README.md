@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Distribuidora de peças automotivas 
 - 🌱 I’m currently learning / Estudando: Estudante Full Stack Web Developer.
 - 🎮 Hobbies: Games.
+- Eu sou uma pessoa Simpatica Divertida e Objetiva, sei oque quero na vida. Adoro tecnologia e Games eu amo a area programação e estou sempre em busca de conhecimento e crescimento na área.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=deivid-wust&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=deivid-wust&theme=blueberry_duo"/>
